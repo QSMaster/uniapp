@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="180px" height="180px" viewBox="0 0 180 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>-mockplus-</title>
+    <defs>
+        <rect x="36" y="36" width="108" height="108" id="rect-1"></rect>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标" transform="translate(-1005.000000, -600.000000)">
+            <g id="编组" transform="translate(195.000000, 330.000000)">
+                <g id="编组-4" transform="translate(810.000000, 270.000000)">
+                    <circle id="椭圆形" fill="#23292F" cx="90" cy="90" r="90"></circle>
+                    <g id="瑞波币">
+                        <image x="36" y="36" width="108" height="108" xlink:href="data:image/png;base64,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"></image>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#rect-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

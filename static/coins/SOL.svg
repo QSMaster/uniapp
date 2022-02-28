@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="180px" height="180px" viewBox="0 0 180 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>-mockplus-</title>
+    <defs>
+        <linearGradient x1="67.6059244%" y1="35.2623452%" x2="12.3723235%" y2="52.564638%" id="linearGradient-1">
+            <stop stop-color="#00FFA3" offset="0%"></stop>
+            <stop stop-color="#DC1FFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="67.6059244%" y1="44.8900058%" x2="12.3723235%" y2="62.1922986%" id="linearGradient-2">
+            <stop stop-color="#00FFA3" offset="0%"></stop>
+            <stop stop-color="#DC1FFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="67.6059244%" y1="40.1068269%" x2="12.3723235%" y2="57.4091197%" id="linearGradient-3">
+            <stop stop-color="#00FFA3" offset="0%"></stop>
+            <stop stop-color="#DC1FFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标" transform="translate(-1545.000000, -870.000000)">
+            <g id="编组" transform="translate(195.000000, 330.000000)">
+                <g id="Solana-Logo-Image" transform="translate(1350.000000, 540.000000)">
+                    <circle id="椭圆形" fill="#000000" cx="90" cy="90" r="90"></circle>
+                    <path d="M55.9813687,112.48138 C56.5981478,111.917028 57.4343635,111.6 58.3063149,111.6 L138.752236,111.6 C140.217594,111.6 140.951238,113.222999 139.914516,114.171605 L124.018691,128.718443 C123.401912,129.282972 122.565696,129.6 121.693745,129.6 L41.2478236,129.6 C39.7824661,129.6 39.0488216,127.977001 40.0853505,127.028218 L55.9813687,112.48138 Z" id="路径" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+                    <path d="M55.9813687,51.2815568 C56.5981478,50.7170279 57.4343635,50.4 58.3063149,50.4 L138.752236,50.4 C140.217594,50.4 140.951238,52.0229987 139.914516,52.9717824 L124.018691,67.5186201 C123.401912,68.0829721 122.565696,68.4 121.693745,68.4 L41.2478236,68.4 C39.7824661,68.4 39.0488216,66.7770013 40.0853505,65.8283945 L55.9813687,51.2815568 Z" id="路径" fill="url(#linearGradient-2)" fill-rule="nonzero"></path>
+                    <path d="M124.018691,80.0813799 C123.401912,79.5170279 122.565696,79.2 121.693745,79.2 L41.2478236,79.2 C39.7824661,79.2 39.0488216,80.8229987 40.0853505,81.7716055 L55.9813687,96.3184432 C56.5981478,96.8829721 57.4343635,97.2 58.3063149,97.2 L138.752236,97.2 C140.217594,97.2 140.951238,95.5770013 139.914516,94.6282176 L124.018691,80.0813799 Z" id="路径" fill="url(#linearGradient-3)" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

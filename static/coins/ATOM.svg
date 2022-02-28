@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="180px" height="180px" viewBox="0 0 180 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>-mockplus-</title>
+    <defs>
+        <radialGradient cx="83.8660394%" cy="38.741532%" fx="83.8660394%" fy="38.741532%" r="25.1525455%" gradientTransform="translate(0.838660,0.387415),scale(0.840252,1.000000),rotate(60.510400),translate(-0.838660,-0.387415)" id="radialGradient-1">
+            <stop stop-color="#FFFFFF" offset="6.41959%"></stop>
+            <stop stop-color="#FFFFFF" offset="37.8402%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="37.8689%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.27" offset="44.7377%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="47.4176%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="52.4884%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.35777" offset="55.3995%"></stop>
+            <stop stop-color="#FFFFFF" offset="91.5433%"></stop>
+        </radialGradient>
+        <radialGradient cx="16.1343106%" cy="61.2585715%" fx="16.1343106%" fy="61.2585715%" r="25.1524783%" gradientTransform="translate(0.161343,0.612586),scale(0.840254,1.000000),rotate(60.510400),translate(-0.161343,-0.612586)" id="radialGradient-2">
+            <stop stop-color="#FFFFFF" offset="6.41959%"></stop>
+            <stop stop-color="#FFFFFF" offset="37.8402%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="37.8689%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.27" offset="44.7377%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="47.4176%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="52.4884%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.35777" offset="55.3995%"></stop>
+            <stop stop-color="#FFFFFF" offset="91.5433%"></stop>
+        </radialGradient>
+        <radialGradient cx="-0.000409525563%" cy="-0.000667253772%" fx="-0.000409525563%" fy="-0.000667253772%" r="41.0598612%" gradientTransform="translate(-0.000004,-0.000007),scale(0.613748,1.000000),rotate(-59.489600),translate(0.000004,0.000007)" id="radialGradient-3">
+            <stop stop-color="#FFFFFF" offset="6.41959%"></stop>
+            <stop stop-color="#FFFFFF" offset="37.5799%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="37.7892%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.27" offset="44.7377%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="47.4176%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="52.4884%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.35777" offset="56.9629%"></stop>
+            <stop stop-color="#FFFFFF" offset="91.5433%"></stop>
+        </radialGradient>
+        <radialGradient cx="99.9990483%" cy="-0.00156128025%" fx="99.9990483%" fy="-0.00156128025%" r="96.0743169%" gradientTransform="translate(0.999990,-0.000016),scale(0.609588,1.000000),rotate(-59.489600),translate(-0.999990,0.000016)" id="radialGradient-4">
+            <stop stop-color="#FFFFFF" offset="6.41959%"></stop>
+            <stop stop-color="#FFFFFF" offset="37.5799%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="37.7892%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.27" offset="44.7377%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="47.4176%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="52.4884%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.35777" offset="56.9629%"></stop>
+            <stop stop-color="#FFFFFF" offset="91.5433%"></stop>
+        </radialGradient>
+        <radialGradient cx="69.9157849%" cy="99.9993328%" fx="69.9157849%" fy="99.9993328%" r="41.0593225%" gradientTransform="translate(0.699158,0.999993),scale(0.429112,1.000000),rotate(-59.489600),translate(-0.699158,-0.999993)" id="radialGradient-5">
+            <stop stop-color="#FFFFFF" offset="6.41959%"></stop>
+            <stop stop-color="#FFFFFF" offset="37.5799%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="37.7892%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.27" offset="44.7377%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="47.4176%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="52.4884%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.35777" offset="56.9629%"></stop>
+            <stop stop-color="#FFFFFF" offset="91.5433%"></stop>
+        </radialGradient>
+        <radialGradient cx="48.4797608%" cy="114.593183%" fx="48.4797608%" fy="114.593183%" r="51.9372191%" gradientTransform="translate(0.484798,1.145932),scale(1.000000,0.490597),rotate(180.000000),translate(-0.484798,-1.145932)" id="radialGradient-6">
+            <stop stop-color="#FFFFFF" offset="22.2861%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.713611" offset="32.8125%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.387114" offset="44.8131%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="47.7979%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="52.4583%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.167438" offset="56.1789%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.46" offset="88.7881%"></stop>
+            <stop stop-color="#FFFFFF" offset="89.1793%"></stop>
+            <stop stop-color="#FFFFFF" offset="97.9793%"></stop>
+        </radialGradient>
+        <radialGradient cx="409.011972%" cy="100%" fx="409.011972%" fy="100%" r="409.013288%" gradientTransform="translate(4.090120,1.000000),scale(1.000000,0.174321),rotate(180.000000),translate(-4.090120,-1.000000)" id="radialGradient-7">
+            <stop stop-color="#FFFFFF" offset="22.2861%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.713611" offset="32.8125%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.387114" offset="44.8131%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="47.7979%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="52.4583%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.167438" offset="56.1789%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.46" offset="88.7881%"></stop>
+            <stop stop-color="#FFFFFF" offset="89.1793%"></stop>
+            <stop stop-color="#FFFFFF" offset="97.9793%"></stop>
+        </radialGradient>
+        <radialGradient cx="-319.527955%" cy="-69.0169781%" fx="-319.527955%" fy="-69.0169781%" r="422.923412%" gradientTransform="translate(-3.195280,-0.690170),scale(1.000000,0.284945),rotate(180.000000),translate(3.195280,0.690170)" id="radialGradient-8">
+            <stop stop-color="#FFFFFF" offset="22.2861%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.713611" offset="32.8125%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.387114" offset="44.8131%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="47.7979%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="52.4583%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.167438" offset="56.1789%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.46" offset="88.7881%"></stop>
+            <stop stop-color="#FFFFFF" offset="89.1793%"></stop>
+            <stop stop-color="#FFFFFF" offset="97.9793%"></stop>
+        </radialGradient>
+        <radialGradient cx="-384.902129%" cy="100%" fx="-384.902129%" fy="100%" r="484.89589%" gradientTransform="translate(-3.849021,1.000000),scale(1.000000,0.449993),rotate(180.000000),translate(3.849021,-1.000000)" id="radialGradient-9">
+            <stop stop-color="#FFFFFF" offset="22.2861%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.713611" offset="32.8125%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.387114" offset="44.8131%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="47.7979%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="52.4583%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.167438" offset="56.1789%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.46" offset="88.7881%"></stop>
+            <stop stop-color="#FFFFFF" offset="89.1793%"></stop>
+            <stop stop-color="#FFFFFF" offset="97.9793%"></stop>
+        </radialGradient>
+        <radialGradient cx="-384.902129%" cy="0%" fx="-384.902129%" fy="0%" r="484.89589%" gradientTransform="translate(-3.849021,0.000000),scale(1.000000,0.449993),rotate(180.000000),translate(3.849021,-0.000000)" id="radialGradient-10">
+            <stop stop-color="#FFFFFF" offset="22.2861%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.713611" offset="32.8125%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.387114" offset="44.8131%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="47.7979%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="52.4583%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.167438" offset="56.1789%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.46" offset="88.7881%"></stop>
+            <stop stop-color="#FFFFFF" offset="89.1793%"></stop>
+            <stop stop-color="#FFFFFF" offset="97.9793%"></stop>
+        </radialGradient>
+        <radialGradient cx="51.7210401%" cy="0%" fx="51.7210401%" fy="0%" r="51.7212065%" gradientTransform="translate(0.517210,0.000000),scale(1.000000,0.429910),rotate(180.000000),translate(-0.517210,-0.000000)" id="radialGradient-11">
+            <stop stop-color="#FFFFFF" offset="22.2861%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.713611" offset="32.8125%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.387114" offset="44.8131%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="47.7979%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="52.4583%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.167438" offset="56.1789%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.46" offset="88.7881%"></stop>
+            <stop stop-color="#FFFFFF" offset="89.1793%"></stop>
+            <stop stop-color="#FFFFFF" offset="97.9793%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标" transform="translate(-1275.000000, -1140.000000)">
+            <g id="编组" transform="translate(195.000000, 330.000000)">
+                <g id="Get-Started---Cosmos-The-Internet-of-Blockchains" transform="translate(1080.000000, 810.000000)">
+                    <circle id="椭圆形" fill="#000000" cx="90" cy="90" r="90"></circle>
+                    <path d="M40.0321368,117.105768 C39.8694888,117.832176 40.0023936,118.082088 40.0262616,118.123344 C40.0501296,118.164816 40.2000984,118.404792 40.9104576,118.627056 C41.640084,118.855368 42.749784,118.991232 44.305632,118.929672 C47.411064,118.806552 51.704064,117.926136 56.947032,116.27676 C62.84016,114.422832 69.753024,111.655224 77.232456,108.109368 C77.303304,109.079424 77.379336,110.038896 77.460552,110.986704 C56.892168,120.622464 40.5457848,124.4232 37.6880184,119.47356 C33.9792768,113.04972 54.3924,94.321008 83.281752,77.641704 C88.977888,74.352888 94.578336,71.389584 99.927792,68.800176 C100.00512,69.754464 100.077264,70.720632 100.144008,71.697816 C95.152032,74.142504 89.938656,76.915944 84.631752,79.979904 C70.305336,88.251408 58.152744,96.991632 50.086008,104.392872 C46.036008,108.10872 43.127136,111.386304 41.4678456,114.01416 C40.636548,115.330896 40.1992128,116.359704 40.0321368,117.105768 Z" id="路径" fill="url(#radialGradient-1)" fill-rule="nonzero"></path>
+                    <path d="M102.761712,70.43616 C102.690864,69.466104 102.614832,68.506632 102.533616,67.558824 C123.102,57.923064 139.448448,54.122328 142.306128,59.072184 C146.014848,65.495808 125.601768,84.22452 96.712416,100.90404 C91.01628,104.19264 85.415832,107.15616 80.066376,109.745568 C79.989048,108.791064 79.916904,107.824896 79.85016,106.847712 C84.84192,104.403024 90.055512,101.629584 95.362416,98.565624 C109.688832,90.294336 121.841424,81.553896 129.90816,74.152656 C133.95816,70.436808 136.867032,67.159224 138.526344,64.531368 C139.357512,63.214632 139.794912,62.185824 139.962096,61.43976 C140.124744,60.71292 139.991688,60.463224 139.967928,60.422184 C139.944168,60.380928 139.79448,60.140952 139.083624,59.918472 C138.354192,59.69016 137.244384,59.554296 135.688536,59.616072 C132.583104,59.738976 128.290104,60.619392 123.047136,62.268768 C117.154008,64.122696 110.241144,66.890304 102.761712,70.43616 Z" id="路径" fill="url(#radialGradient-2)" fill-rule="nonzero"></path>
+                    <path d="M139.083624,118.6398 C139.794048,118.417536 139.943952,118.177344 139.967712,118.136088 C139.991472,118.095048 140.124744,117.845352 139.96188,117.118512 C139.794912,116.372448 139.357512,115.343424 138.526344,114.026904 C136.867032,111.399048 133.95816,108.121464 129.90816,104.405616 C125.35596,100.22904 119.503008,95.62608 112.692312,90.9216 C113.497128,90.375336 114.289848,89.82972 115.070256,89.285616 C133.699176,102.280176 145.163808,114.536232 142.306128,119.486088 C138.887064,125.407944 116.161272,118.804824 89.997192,104.669136 C90.934848,104.162616 91.87704,103.64616 92.822904,103.120416 C104.100264,109.115928 114.617088,113.63724 123.04692,116.289504 C128.289888,117.93888 132.582888,118.819296 135.68832,118.9422 C137.244168,119.003976 138.353976,118.868112 139.083624,118.6398 Z" id="路径" fill="url(#radialGradient-3)" fill-rule="nonzero"></path>
+                    <path d="M89.997192,101.595672 C89.050464,102.114072 88.108272,102.62232 87.171264,103.120416 C85.881096,102.403296 84.584016,101.668464 83.281752,100.916568 C77.585616,97.627968 72.219096,94.259664 67.301856,90.9216 C68.089824,90.377496 68.89032,89.83188 69.703344,89.285616 C74.316456,92.386296 79.324848,95.514408 84.631752,98.578368 C86.43276,99.618192 88.222752,100.62432 89.997192,101.595672 Z" id="路径" fill="url(#radialGradient-4)" fill-rule="nonzero"></path>
+                    <path d="M67.301856,87.649416 C66.49704,88.19568 65.70432,88.741296 64.924128,89.285616 C46.294992,76.29084 34.8302088,64.034568 37.6880184,59.084712 C41.3967168,52.661088 67.822848,60.974928 96.7122,77.654232 C102.408552,80.943048 107.775072,84.311352 112.692312,87.649416 C111.90456,88.19352 111.103848,88.739136 110.290824,89.285616 C105.677712,86.18472 100.669104,83.056392 95.3622,79.992648 C81.035784,71.721144 67.3902,65.566872 56.947032,62.281512 C51.704064,60.63192 47.411064,59.75172 44.305632,59.6286 C42.749784,59.56704 41.640084,59.702688 40.9104576,59.931 C40.199688,60.15348 40.05,60.393672 40.0262832,60.434712 C40.0025448,60.475968 39.8693808,60.725664 40.0321368,61.452504 C40.1991912,62.198352 40.636548,63.227376 41.467824,64.543896 C43.127136,67.171752 46.036008,70.449552 50.086008,74.1654 C54.637992,78.341976 60.49116,82.944936 67.301856,87.649416 Z" id="路径" fill="url(#radialGradient-5)" fill-rule="nonzero"></path>
+                    <path d="M89.11548,32.0940216 C89.663256,31.5899424 89.946,31.5801576 89.993736,31.580136 C90.041256,31.580136 90.324,31.5897048 90.872208,32.0940216 C91.434672,32.6117304 92.10708,33.5049552 92.831544,34.8831648 C94.27788,37.6340544 95.662008,41.791968 96.854976,47.157408 C98.773056,55.784016 100.115928,67.152528 100.562184,79.916616 C101.490552,80.473032 102.408768,81.030744 103.3164,81.589536 C102.476376,51.862968 96.831864,28.8801576 89.993736,28.8801576 C84.27816,28.8801576 79.39656,44.936928 77.457312,67.567464 C78.31872,67.971168 79.187472,68.384808 80.063136,68.808816 C80.732088,60.558264 81.791784,53.187912 83.132712,47.157408 C84.32568,41.791968 85.709808,37.6340544 87.155928,34.8831648 C87.880392,33.5049552 88.553016,32.6117304 89.11548,32.0940216 Z" id="路径" fill="url(#radialGradient-6)" fill-rule="nonzero"></path>
+                    <path d="M79.84692,71.706456 C78.967152,71.275752 78.094512,70.854984 77.229216,70.4448 C76.797,76.372272 76.563288,82.704096 76.563288,89.281512 L79.263288,89.281512 C79.263288,83.153592 79.468056,77.251824 79.84692,71.706456 Z" id="路径" fill="url(#radialGradient-7)" fill-rule="nonzero"></path>
+                    <path d="M103.3164,96.973272 C103.207968,100.81224 103.0194,104.538888 102.758256,108.118008 C101.893176,107.707824 101.02032,107.287272 100.140768,106.856352 C100.322424,104.196744 100.463904,101.455272 100.562184,98.646192 C101.490552,98.089992 102.408768,97.532064 103.3164,96.973272 Z" id="路径" fill="url(#radialGradient-8)" fill-rule="nonzero"></path>
+                    <path d="M103.388112,84.811176 C102.488256,84.248928 101.576952,83.687112 100.654632,83.126376 C100.70064,85.148568 100.7244,87.20208 100.7244,89.281512 L103.4244,89.281512 C103.4244,87.777936 103.412088,86.287104 103.388112,84.811176 Z" id="路径" fill="url(#radialGradient-9)" fill-rule="nonzero"></path>
+                    <path d="M103.388112,93.751632 C102.488256,94.314096 101.576952,94.875912 100.654632,95.436648 C100.70064,93.41424 100.7244,91.360944 100.7244,89.281512 L103.4244,89.281512 C103.4244,90.784872 103.412088,92.275704 103.388112,93.751632 Z" id="路径" fill="url(#radialGradient-10)" fill-rule="nonzero"></path>
+                    <path d="M99.924336,109.754208 C100.8,110.178 101.668968,110.591856 102.530376,110.995344 C100.591128,133.62588 95.709312,149.682672 89.993736,149.682672 C82.576296,149.682672 76.563288,122.64012 76.563288,89.281512 L79.263288,89.281512 C79.263288,105.824304 80.75628,120.7188 83.132712,131.405616 C84.32568,136.77084 85.709808,140.92884 87.155928,143.679816 C87.880392,145.057896 88.5528,145.951272 89.11548,146.468808 C89.663472,146.973168 89.946216,146.982672 89.993736,146.982672 C90.041256,146.982672 90.324,146.973168 90.872208,146.468808 C91.434672,145.951272 92.10708,145.057896 92.831544,143.679816 C94.27788,140.92884 95.662008,136.77084 96.854976,131.405616 C98.195904,125.375112 99.2556,118.004544 99.924336,109.754208 Z" id="路径" fill="url(#radialGradient-11)" fill-rule="nonzero"></path>
+                    <path d="M116.206632,64.203696 C117.379944,66.236256 119.978208,66.933072 122.009688,65.760192 C124.041168,64.587312 124.736904,61.988832 123.563376,59.956272 C122.389848,57.923928 119.7918,57.226896 117.760104,58.399776 C115.728624,59.572872 115.033104,62.171352 116.206632,64.203696 Z" id="路径" fill="#FFFFFF"></path>
+                    <path d="M55.18188,79.12476 C56.355408,77.092416 55.659672,74.493936 53.628192,73.32084 C51.596712,72.14796 48.998664,72.844992 47.825136,74.877336 C46.651608,76.909896 47.347128,79.508376 49.378824,80.681256 C51.410304,81.854136 54.008352,81.15732 55.18188,79.12476 Z" id="路径" fill="#FFFFFF"></path>
+                    <path d="M81.388512,124.511328 C83.735352,124.511328 85.63788,126.412992 85.63788,128.758752 C85.63788,131.104512 83.735352,133.006176 81.388512,133.006176 C79.041456,133.006176 77.138928,131.104512 77.138928,128.758752 C77.138928,126.412992 79.041456,124.511328 81.388512,124.511328 Z" id="路径" fill="#FFFFFF"></path>
+                    <path d="M89.968464,82.053936 C93.942,82.053936 97.163208,85.275144 97.163208,89.248464 C97.163208,93.222 93.942,96.443208 89.968464,96.443208 C85.995144,96.443208 82.773936,93.222 82.773936,89.248464 C82.773936,85.275144 85.995144,82.053936 89.968464,82.053936 Z" id="路径" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
