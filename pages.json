@@ -1,0 +1,466 @@
+{
+	"pages": [
+
+
+		/*首页*/
+		{
+			"path": "pages/index",
+			"style": {
+				"navigationBarTextStyle": "black",
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "首页"
+				// "app-plus": {
+				// 	"bounce": "none",
+				// 	"titleNView": {
+				// 		"titleColor": "#010F14",
+				// 		"type": "transparent",
+				// 		"backgroundColor": "#ffffff"
+				// 	}
+				// }
+			}
+		}, {
+			"path": "pages/index/notice",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "公告"
+			}
+		},
+		{
+			"path": "pages/index/noticeDetails",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "公告详情"
+			}
+		},
+
+		{
+			"path": "pages/subView/update/index",
+			"style": {
+				"navigationStyle": "custom",
+				"backgroundColor": "transparent",
+				"bounceBackground": "transparent",
+				"app-plus": {
+					"animationType": "fade-in",
+					"background": "transparent",
+					"popGesture": "none"
+				}
+			}
+		},
+
+
+		{
+			"path": "pages/index/binance",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "币安"
+			}
+		},
+		{
+			"path": "pages/index/binanceCourse",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "币安教程"
+			}
+		},
+		{
+			"path": "pages/index/strategy",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "策略"
+			}
+		},
+		{
+			"path": "pages/index/tradingList",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "交易记录"
+			}
+		},
+		{
+			"path": "pages/index/tradeSetting",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "交易设置"
+			}
+		}, {
+			"path": "pages/index/contract",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "合约"
+			}
+		}, {
+			"path": "pages/index/contractOrder",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "合约订单"
+			}
+		}, {
+			"path": "pages/index/marketKline",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "行情"
+			}
+		},
+		/*资讯和跟单*/
+		{
+			"path": "pages/index/documentary",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "资讯和跟单"
+			}
+		}, {
+			"path": "pages/documentary/screenCondition",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "筛选条件"
+			}
+		}, {
+			"path": "pages/documentary/personalHomepage",
+			"style": {
+				"navigationBarTitleText": "个人主页",
+				"navigationStyle": "custom",
+				"app-plus": {
+					"bounce": "none",
+					"titleNView": {
+						"type": "transparent",
+						"backgroundColor": "#0278ff"
+					}
+				}
+			}
+		}, {
+			"path": "pages/documentary/searchInvestor",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "搜索投资者"
+			}
+		}, {
+			"path": "pages/documentary/withGo",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "跟单设置"
+			}
+		},
+
+		/*交易*/
+		{
+			"path": "pages/trade",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "交易"
+			}
+		},
+		{
+			"path": "pages/trade/switch",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "切换平台"
+			}
+		},
+		{
+			"path": "pages/trade/tradeSettings",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "交易设置"
+			}
+		},
+		/*我的*/
+		{
+			"path": "pages/user",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "我的"
+			}
+		}, {
+			"path": "pages/user/withManage",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "跟单管理"
+			}
+		}, {
+			"path": "pages/user/editWith",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "编辑跟单"
+			}
+		}, {
+			"path": "pages/user/aboutUs",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "关于我们"
+			}
+		}, {
+			"path": "pages/user/emailCenter",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "邮箱中心"
+			}
+		}, {
+			"path": "pages/user/remind",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "提醒额度"
+			}
+		}, {
+			"path": "pages/user/rankingList",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "排行榜"
+			}
+		}, {
+			"path": "pages/user/share",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "分享"
+			}
+		}, {
+			"path": "pages/user/community",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "社区",
+				"onReachBottomDistance": 30, //距离底部多远时触发 单位px
+				"enablePullDownRefresh": true
+				// "app-plus": {
+				// 	"titleNView": {
+				// 		"type": "transparent",
+				// 		"backgroundColor": "#0278ff"
+				// 	}
+				// }
+			}
+		}, {
+			"path": "pages/user/myJihuoma",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "我的激活码"
+			}
+		}, {
+			"path": "pages/user/transactionRecords",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "交易记录"
+			}
+		}, {
+			"path": "pages/user/billing",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "电子账单"
+			}
+			// "style": {
+			// 	"navigationStyle": "default",
+			// 	"navigationBarTitleText": "人气排行榜",
+			// 	"app-plus": {
+			// 		"titleNView": {
+			// 			"type": "transparent",
+			// 			"backgroundColor": "#0278ff"
+			// 		}
+			// 	}
+			// }
+		}, {
+			"path": "pages/user/assets",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "资产"
+			}
+		}, {
+			"path": "pages/user/recharge",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "充币"
+			}
+		}, {
+			"path": "pages/user/mentionMoney",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "提币"
+			}
+		}, {
+			"path": "pages/user/transfersBetween",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "互转"
+			}
+		}, {
+			"path": "pages/user/setting",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "设置"
+			}
+		}, {
+			"path": "pages/user/personalData",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "个人资料"
+			}
+		}, {
+			"path": "pages/user/changeNickname",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "修改昵称"
+			}
+		}, {
+			"path": "pages/user/changeLoginPassword",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "修改登录密码"
+			}
+		}, {
+			"path": "pages/user/changePayPassword",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "修改支付密码"
+			}
+		}, {
+			"path": "pages/user/contactUs",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "联系我们"
+			}
+		}, {
+			"path": "pages/user/phoneOrEmail",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "手机或邮箱"
+			}
+		}, {
+			"path": "pages/user/withAsingle",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "带单管理"
+			}
+		},
+		/*日志*/
+		{
+			"path": "pages/journal",
+			"style": {
+				"navigationBarTextStyle": "black",
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "日志"
+			}
+		},
+		/*资讯*/
+		{
+			"path": "pages/information",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "资讯"
+			}
+		}, {
+			"path": "pages/information/informationDetails",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "资讯详情"
+			}
+		},
+		/*登录注册*/
+		{
+			"path": "pages/login/login",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "登录"
+			}
+		}, {
+			"path": "pages/login/register",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "注册"
+			}
+		}, {
+			"path": "pages/login/forgetPassword",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "忘记密码"
+			}
+		}, {
+			"path": "pages/login/userAgreement",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "用户协议"
+			}
+		},
+		/*其他*/
+		{
+			"path": "pages/other/versionUpdate",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "版本更新"
+			}
+		},
+		{
+			"path": "pages/user/apiboard",
+			"style": {
+				"navigationBarTitleText": "API管理",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/index/noviceTutorial",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/test/test",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/user/buyActivationCode/buyActivationCode",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "购买激活码",
+				"enablePullDownRefresh": false
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "蚂蚁量化",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#9EA0A8",
+		"selectedColor": "#37383B",
+		"borderStyle": "black",
+		"backgroundColor": "#ffffff",
+		"height": "48px",
+		"fontSize": "10px",
+		"iconWidth": "22px",
+		"spacing": "4px",
+		"borderStyle": "white",
+		"list": [{
+				"pagePath": "pages/index",
+				"iconPath": "static/images/tabbar/icon_tab_home2@3x.png",
+				"selectedIconPath": "static/images/tabbar/icon_tab_home1@3x.png",
+				"text": "首页"
+			},
+			{
+				"pagePath": "pages/user/rankingList",
+				"iconPath": "static/images/tabbar/icon_tab_pm2@3x.png",
+				"selectedIconPath": "static/images/tabbar/icon_tab_pm1@3x.png",
+				"text": "排名"
+			},
+			{
+				"pagePath": "pages/trade",
+				"iconPath": "static/images/tabbar/icon_tab_chelue2@3x.png",
+				"selectedIconPath": "static/images/tabbar/icon_tab_chelue1@3x.png",
+				"text": "策略"
+			},
+			{
+				"pagePath": "pages/journal",
+				"iconPath": "static/images/tabbar/icon_tab_book2@3x.png",
+				"selectedIconPath": "static/images/tabbar/icon_tab_book1@3x.png",
+				"text": "日志"
+			},
+			{
+				"pagePath": "pages/user",
+				"iconPath": "static/images/tabbar/icon_tab_mine2@3x.png",
+				"selectedIconPath": "static/images/tabbar/icon_tab_mine1@3x.png",
+				"text": "我的"
+			}
+		]
+	}
+}
